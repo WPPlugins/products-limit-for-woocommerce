@@ -1,0 +1,12 @@
+/* Style of the dashboard status widget */
+
+ul.sub-settings {
+	float: none;
+    border-top: 1px solid #eee;
+    margin: 0 -12px;
+    padding: 3px 12px 0px;
+}
+
+.sub-settings li {
+	    margin: 5px 0px 0px 0px;
+}
